@@ -1,0 +1,14 @@
+/home/emma/Desktop/C#/MyApp/bin/Debug/net10.0/MyApp
+/home/emma/Desktop/C#/MyApp/bin/Debug/net10.0/MyApp.deps.json
+/home/emma/Desktop/C#/MyApp/bin/Debug/net10.0/MyApp.runtimeconfig.json
+/home/emma/Desktop/C#/MyApp/bin/Debug/net10.0/MyApp.dll
+/home/emma/Desktop/C#/MyApp/bin/Debug/net10.0/MyApp.pdb
+/home/emma/Desktop/C#/MyApp/obj/Debug/net10.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C#/MyApp/obj/Debug/net10.0/MyApp.AssemblyInfoInputs.cache
+/home/emma/Desktop/C#/MyApp/obj/Debug/net10.0/MyApp.AssemblyInfo.cs
+/home/emma/Desktop/C#/MyApp/obj/Debug/net10.0/MyApp.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C#/MyApp/obj/Debug/net10.0/MyApp.dll
+/home/emma/Desktop/C#/MyApp/obj/Debug/net10.0/refint/MyApp.dll
+/home/emma/Desktop/C#/MyApp/obj/Debug/net10.0/MyApp.pdb
+/home/emma/Desktop/C#/MyApp/obj/Debug/net10.0/MyApp.genruntimeconfig.cache
+/home/emma/Desktop/C#/MyApp/obj/Debug/net10.0/ref/MyApp.dll
