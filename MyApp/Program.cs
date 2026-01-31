@@ -6,8 +6,10 @@ namespace Myfirst
     {
         static void Main(String[] args)
         {
-            int number = 3;
-            Console.WriteLine(number);
+            int x = 3;
+            int y =50;
+            int z = x + y;
+            Console.WriteLine("The reuslt is " +z);
             
         }
     }
