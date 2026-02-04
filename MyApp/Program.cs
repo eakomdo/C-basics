@@ -15,7 +15,7 @@ namespace Myfirst
            int name = 5;
            //name = name + 1;
            //name += 1;
-           name++;
+           //name++;
            Console.WriteLine(name);
 
 
