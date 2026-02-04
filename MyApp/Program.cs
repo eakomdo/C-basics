@@ -13,7 +13,8 @@ namespace Myfirst
 
            //increament
            int name = 5;
-           name = name + 1;
+           //name = name + 1;
+           name += 1;
            Console.WriteLine(name);
 
 
