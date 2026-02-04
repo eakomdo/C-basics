@@ -9,8 +9,10 @@ namespace Myfirst
             int x = 3;
             int y =50;
             int z = x + y;
+            String me = "Akomdo";
             Console.WriteLine("The reuslt is " +z+ ". Thank you!");
-            
+            Console.WriteLine(x.GetType());
+            Console.WriteLine(me.GetType());
         }
     }
 }
