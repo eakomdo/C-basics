@@ -12,6 +12,7 @@ namespace Myfirst
            //Console.WriteLine("Hello "+name);
 
            //increament
+           int name = 5;
 
 
         }
