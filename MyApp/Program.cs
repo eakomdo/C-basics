@@ -28,6 +28,7 @@ namespace Myfirst
             //methods
             Sing();
             Sing();
+            Sing();
 
 
         }
