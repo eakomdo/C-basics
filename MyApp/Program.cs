@@ -26,8 +26,13 @@ namespace Myfirst
             }*/
 
             //methods
+            Sing();
 
 
+        }
+        static void Sing()
+        {
+            Console.WriteLine("Happy birthday to you")
         }
     }
 }
