@@ -4,7 +4,7 @@ namespace Myfirst
 {
     class Emma
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
            //Taking user input
            //Console.WriteLine("What is your name?"); 
@@ -16,7 +16,7 @@ namespace Myfirst
            //name = name + 1;
            //name += 1;
            //name++;
-           Console.WriteLine(name);
+           //Console.WriteLine(name);
 
 
         }
