@@ -19,11 +19,13 @@ namespace Myfirst
            //Console.WriteLine(name);
 
 
-           int age = 18;
+           /*int age = 18;
            if (age >= 18)
             {
                 Console.WriteLine("This is your age");
-            }
+            }*/
+
+            //methods
 
 
         }
