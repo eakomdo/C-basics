@@ -32,7 +32,7 @@ namespace Myfirst
         }
         static void Sing()
         {
-            Console.WriteLine("Happy birthday to you")
+            Console.WriteLine("Happy birthday to you");
         }
     }
 }
